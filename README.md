@@ -24,3 +24,20 @@ The implementation of each class is up to you, but must adhere to these diagrams
 You are also expected to have good Code Documentation as part of your solution. This includes proper indentation, whitespace, comments, and variable naming conventions.
 
 ## Marking Scheme
+The marking scheme for this assignment is follows:
+
+#### Knowledge
+  - Appropriate use of variables, conditionals, loops, and methods
+  - Variable data types are accurately defined
+#### Thinking
+  - No unnecessary or unused variables, conditionals, loops, etc.
+#### Application
+  - All program specifications have been met.
+  - Use of Object-Oriented Programming in the approach to the solution
+  - Working solution; program does not generate any errors (syntax/compiler, logic errors, etc.)
+  - Code deliverable is submitted on time or by pre-arranged extension date.
+#### Communication
+  - Code is well-documented with comments
+  - Variable names are clear and concise 
+
+### Total Marks: /20
