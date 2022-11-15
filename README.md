@@ -25,6 +25,8 @@ The implementation of each class is up to you, but must adhere to these diagrams
 
 You are also expected to have good Code Documentation as part of your solution. This includes proper indentation, whitespace, comments, and variable naming conventions.
 
+**NOTE**: You may not import any additional packages or libraries.
+
 ## Marking Scheme
 The marking scheme for this assignment is follows:
 
