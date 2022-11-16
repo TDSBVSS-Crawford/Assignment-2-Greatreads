@@ -27,6 +27,37 @@ You are also expected to have good Code Documentation as part of your solution. 
 
 **NOTE**: You may not import any additional packages or libraries.
 
+## Example Code output
+
+### Displaying Books:
+```
+Title of book: The Lightning Thief
+Written by: Rick Riordan
+Summary: The Lightning Thief is a light-hearted fantasy about a modern 12-year-old boy who learns that his true father is Poseidon, the Greek god of the sea.
+Page Count: 377
+Title of book: To Kill a Mockingbird
+Written by: Harper Lee
+Summary: To Kill a Mockingbird is both a young girl's coming-of-age story and a darker drama about the roots and consequences of racism and prejudice, probing how good and evil can coexist within a single community or individual.
+Page Count: 281
+```
+### Displaying a Shelf contents:
+```
+Shelf: To Be Read
+The Lightning Thief
+To Kill a Mockingbird
+```
+### Displaying Average Reviews:
+```
+The Lightning Thief Reviews: 2.75
+To Kill a Mockingbird Reviews: 1.5
+```
+
+### Displaying Reviews for To Kill a Mockingbird:
+```
+This book was boring
+This book was good!
+```
+
 ## Marking Scheme
 The marking scheme for this assignment is follows:
 
